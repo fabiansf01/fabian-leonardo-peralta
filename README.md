@@ -1,6 +1,6 @@
 
 
-<img src="https://www.fpsoft.com.ar/githubimg/bannergi1.jpg" width="900" height="300">
+<img src="https://www.fpsoft.com.ar/githubimg/bannergi1.jpg" width="1020" height="300">
 
 
 
